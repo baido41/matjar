@@ -1,0 +1,6 @@
+# استثناءات ملفات النظام
+.DS_Store
+Thumbs.db
+
+# استثناءات node_modules
+node_modules/
